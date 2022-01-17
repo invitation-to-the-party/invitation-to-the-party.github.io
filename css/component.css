@@ -103,7 +103,7 @@ body {
 
 @media screen and (max-width: 629px) {
 	.page--current {
-		background-size: 520px !important;
+		background-size: 480px !important;
 	}
 
 	.lp-title {
@@ -145,6 +145,7 @@ body {
 	position: relative;
 	height: 100vh;
 	overflow: hidden;
+	min-height: 824px;
 }
 
 .js .pages {
